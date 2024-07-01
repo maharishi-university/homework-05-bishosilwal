@@ -1,5 +1,6 @@
 import Meditation from "./exercise01.ts";
 import isPrime from "./exercise02.ts";
+import printRecipes from "./exercise03.ts";
 
 // console.log("********** exercise 01 ***********");
 // const morning_meditation = new Meditation(5);
@@ -22,3 +23,4 @@ import isPrime from "./exercise02.ts";
 // console.log("end");
 
 console.log("********** exercise 03 ***********");
+printRecipes();
